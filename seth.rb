@@ -1,7 +1,6 @@
 def seth_says_stuff(word)
-  puts "\n"
-  puts "Your favorite color is #{word}"
-  puts "\n"
+  
+  puts "\n Your favorite color is #{word} \n"
 end
 
 puts "type your favorite color."

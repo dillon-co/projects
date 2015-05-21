@@ -2,7 +2,7 @@ class GameOfLife
   def initialize
     @board_width = 50
     @board_height = 50
-    @live = "Seth"
+    @live = "()"
     @dead = " "
     @board = Array.new(@board_height) { Array.new(@board_width) {rand(2) == 1 ? @live : @dead} }
   end

@@ -655,3 +655,28 @@ git status( "get the status of merge conflicts" )
 git pull --rebase
 
 
+
+Concerns "Enable you to do things"
+
+"Able to call concernes all over without repeating yourself."
+
+Concerns "enable you to make something happen when something else has happened"
+
+>>>> "Keeps your code dry so you don't have to copy code across all models"
+
+
+"Must create yourself"
+
+
+
+Redis "Is used for chaching information!"
+
+
+
+
+
+
+
+
+
+
